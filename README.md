@@ -6,7 +6,7 @@ Tilrettelegging av datasett til bruk i ruteberegninger for syklende og gående
 * Det finnes ikke noe offisielt nasjonalt datasett som enkelt gir mulighet for digital sykkelruteplanlegging, men NVDB-data i kombinasjon med andre datakilder vil kunne danne grunnlaget for et slikt datasett. I prosjektet er data fra NVDB supplert med blant annet stier, traktorveger og småstubber fra [Open Street Map](www.openstreetmap.org).
 
 ## Datasett
-Datasettet (SpatiaLite og ERSI filgeodatabase) ligger fritt tilgjengelig her: https://vegvesen.mydesktop.no/url/fjwx0p3cqbje
+Datasettet (SpatiaLite og ERSI filgeodatabase) ligger fritt tilgjengelig her: ftp://ftp.vegvesen.no/brukere/knjetl/Sykkeldata
 
 ## Testklient
 Vi har en testklient på [www.sykkelveg.no](http://sykkelveg.no/latest)
