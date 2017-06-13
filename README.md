@@ -1,3 +1,6 @@
+
+> **NB! Datasettet blir ikke oppdatert for tiden, pga tekniske problemer.**
+
 # Sykkeldata
 Tilrettelegging av datasett til bruk i ruteberegninger for syklende og gående
 
@@ -7,10 +10,6 @@ Tilrettelegging av datasett til bruk i ruteberegninger for syklende og gående
 
 ## Datasett
 Nye versjoner av datasettet (SpatiaLite og ERSI filgeodatabase) legges fritt tilgjengelig her: ftp://ftp.vegvesen.no/brukere/knjetl/Sykkeldata
-
-
-> **NB! Datasettet blir ikke oppdatert for tiden, pga tekniske problemer.**
-
 
 ## Testklient
 Vi har en testklient på [www.sykkelveg.no](http://sykkelveg.no/latest)
