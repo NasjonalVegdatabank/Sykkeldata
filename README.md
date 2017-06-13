@@ -10,6 +10,7 @@ Tilrettelegging av datasett til bruk i ruteberegninger for syklende og gående
 
 ## Datasett
 Nye versjoner av datasettet (SpatiaLite og ERSI filgeodatabase) legges fritt tilgjengelig her: ftp://ftp.vegvesen.no/brukere/knjetl/Sykkeldata
+Datasettet oppdateres normalt i starten av hver måned, og ligger tilgjengelig i 7 dager.
 
 ## Testklient
 Vi har en testklient på [www.sykkelveg.no](http://sykkelveg.no/latest)
